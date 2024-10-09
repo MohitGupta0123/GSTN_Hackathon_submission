@@ -9,4 +9,4 @@ Complete Self Developed Project.
 
 [Adamya Gaur](https://www.github.com/Adamya113)
 
-[Mohit Gupta](https://www.github.com/MohitGupta0123)
+[Mohit Gupta]()
